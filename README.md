@@ -2,8 +2,8 @@
 
 ### Docker Challenge Go
 
-* Url Docker Hub: 
+* Url Docker Hub:<br/>
 https://hub.docker.com/r/assisbernardo/codeeducation
 
-* Docker Pull Command:
+* Docker Pull Command:<br/>
 docker pull assisbernardo/codeeducation
